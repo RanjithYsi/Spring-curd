@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<Resource Name="jdbc/EmlpoyeePay_System" auth="Container" 
+type="javax.sql.DataSource" driverClassName="com.mysql.cj.jdbc.Driver"
+ maxTotal="8" maxIdle="5" maxWait="1000"
+username="root" password="root" url="jdbc:mysql://localhost:3306/mvc?useSSl=false">
+</Resource>
+</Context>
